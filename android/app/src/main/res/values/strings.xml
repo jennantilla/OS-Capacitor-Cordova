@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">UpgradeCapacitor</string>
+    <string name="title_activity_main">UpgradeCapacitor</string>
+    <string name="package_name">com.UpgradeCapacitor.app</string>
+    <string name="custom_url_scheme">com.UpgradeCapacitor.app</string>
+</resources>
